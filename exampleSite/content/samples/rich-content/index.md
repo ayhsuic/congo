@@ -24,12 +24,6 @@ This example uses the `twitter_simple` shortcode to output a Tweet. It requires 
 
 Alternatively, the `tweet` shortcode can be used to embed a fully marked up Twitter card.
 
-## Gist
-
-The `gist` shortcode can be used to embed a GitHub Gist. It requires two unnamed parameters: the username and ID of the Gist.
-
-{{< gist jpanther a873e1219ffeaa80a926bbe8255f348e >}}
-
 ## Vimeo
 
 The `vimeo_simple` shortcode will embed a Vimeo video.
