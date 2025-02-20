@@ -153,7 +153,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Fixed
 
-- Links with non-whitespace characters preceeding them are prefixed with a space ([#695](https://github.com/jpanther/congo/issues/695))
+- Links with non-whitespace characters preceding them are prefixed with a space ([#695](https://github.com/jpanther/congo/issues/695))
 
 ## [2.7.3] - 2023-10-31
 
@@ -356,7 +356,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Appearance switcher missing `aria-label` ([#438](https://github.com/jpanther/congo/pull/438))
 - Article links missing `alt` text and `aria-label` ([#439](https://github.com/jpanther/congo/pull/439))
 - Line height in article tag list would cause overlap when wrapping to a new line ([#444](https://github.com/jpanther/congo/pull/444))
-- Figure shortcode would not apply `class` or `href` attribtues in some cases
+- Figure shortcode would not apply `class` or `href` attributes in some cases
 - Charts displaying with incorrect theme colours
 
 ## [2.4.2] - 2022-11-22
