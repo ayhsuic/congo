@@ -17,6 +17,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Upgrade to Tailwind v3.4.17 ([#979](https://github.com/jpanther/congo/pull/979))
 - Upgrade to Typography v0.5.16 ([#991](https://github.com/jpanther/congo/pull/991))
 
+### Fixed
+
+- Minor documentation errors and omissions ([#985](https://github.com/jpanther/congo/pull/985), [#1005](https://github.com/jpanther/congo/pull/1005), [#1007](https://github.com/jpanther/congo/pull/1007))
+
 ## [2.10.0] - 2024-12-06
 
 ### Changed
