@@ -18,6 +18,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Upgrade to Tailwind v3.4.17 ([#979](https://github.com/jpanther/congo/pull/979))
 - Upgrade to Typography v0.5.16 ([#991](https://github.com/jpanther/congo/pull/991))
 - Upgrade to ChartJS v4.4.8 ([#1019](https://github.com/jpanther/congo/pull/1019))
+- Upgrade to FuseJS v7.1.0 ([#1020](https://github.com/jpanther/congo/pull/1020))
 
 ### Fixed
 
