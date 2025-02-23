@@ -125,8 +125,10 @@ If you're using a language other than English, provide a `defaultContentLanguage
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
-paginate = 10
 summaryLength = 0
+
+[pagination]
+  pagerSize = 10
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
