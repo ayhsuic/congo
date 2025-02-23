@@ -14,6 +14,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Changed
 
+- Reduced file sizes of default favicons ([#983](https://github.com/jpanther/congo/pull/983))
 - Upgrade to KaTeX v0.16.21 ([#977](https://github.com/jpanther/congo/pull/977), [#1016](https://github.com/jpanther/congo/pull/1016))
 - Upgrade to Tailwind v3.4.17 ([#979](https://github.com/jpanther/congo/pull/979))
 - Upgrade to Typography v0.5.16 ([#991](https://github.com/jpanther/congo/pull/991))
