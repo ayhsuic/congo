@@ -22,7 +22,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Fixed
 
-- Minor documentation errors and omissions ([#985](https://github.com/jpanther/congo/pull/985), [#1005](https://github.com/jpanther/congo/pull/1005), [#1007](https://github.com/jpanther/congo/pull/1007))
+- Minor documentation errors and omissions ([#985](https://github.com/jpanther/congo/pull/985), [#1005](https://github.com/jpanther/congo/pull/1005), [#1007](https://github.com/jpanther/congo/pull/1007), [#1012](https://github.com/jpanther/congo/pull/1012))
 - References to deprecated `twitter` shortcodes and replaced them with `x`
 
 ## [2.10.0] - 2024-12-06
