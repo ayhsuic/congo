@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+### Added
+
+- New icon for 'kofi' ([#976](https://github.com/jpanther/congo/pull/976))
+
 ### Changed
 
 - Upgrade to KaTeX v0.16.14 ([#977](https://github.com/jpanther/congo/pull/977))
