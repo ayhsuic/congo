@@ -13,9 +13,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Changed
 
-- Upgrade to KaTeX v0.16.14 ([#977](https://github.com/jpanther/congo/pull/977))
+- Upgrade to KaTeX v0.16.21 ([#977](https://github.com/jpanther/congo/pull/977), [#1016](https://github.com/jpanther/congo/pull/1016))
 - Upgrade to Tailwind v3.4.17 ([#979](https://github.com/jpanther/congo/pull/979))
 - Upgrade to Typography v0.5.16 ([#991](https://github.com/jpanther/congo/pull/991))
+- Upgrade to ChartJS v4.4.8 ([#1019](https://github.com/jpanther/congo/pull/1019))
 
 ### Fixed
 
