@@ -155,6 +155,18 @@ Congo also supports automatic conversion of images included using standard Markd
 
 {{< figure src="abstract.jpg" alt="Abstract purple artwork" caption="Photo by [Jr Korpa](https://unsplash.com/@jrkorpa) on [Unsplash](https://unsplash.com/)" >}}
 
+## Gist
+
+The `gist` shortcode can be used to embed a GitHub Gist. It requires two unnamed parameters: the username and ID of the Gist.
+
+**Example:**
+
+```md
+{{</* jpanther 26292111fe1eb8e31c60f6dbfef9df28 */>}}
+```
+
+{{< gist jpanther 26292111fe1eb8e31c60f6dbfef9df28 >}}
+
 ## Icon
 
 `icon` outputs an SVG icon and takes the icon name as its only parameter. The icon is scaled to match the current text size.

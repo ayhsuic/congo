@@ -8,7 +8,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Added
 
-- New icon for 'kofi' ([#976](https://github.com/jpanther/congo/pull/976))
+- New `gist` shortcode as the built-in Hugo version has been deprecated
+- New icon for `kofi` ([#976](https://github.com/jpanther/congo/pull/976))
 
 ### Changed
 
