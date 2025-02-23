@@ -16,14 +16,6 @@ Hugoには、リッチコンテンツのためのいくつかの[組み込みシ
 
 {{< youtube ZJthWmvUzzc >}}
 
-## Twitter
-
-この例では `twitter_simple` ショートコードを使っています。 `user` と `id` の2つの名前付きパラメーターが必要です。
-
-{{< twitter_simple user="DesignReviewed" id="1085870671291310081" >}}
-
-`tweet` ショートコードを使えば、完全にマークアップされたTwitterカードを埋め込むこともできます。
-
 ## Vimeo
 
 `vimeo_simple` ショートコードでVimeoの動画を埋め込むことができます。

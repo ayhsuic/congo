@@ -16,14 +16,6 @@ A continuación, se muestra un ejemplo que utiliza el shortcut integrado `youtub
 
 {{< youtube ZJthWmvUzzc >}}
 
-## Twitter
-
-Este ejemplo usa el shortcode `twitter_simple` para generar un Tweet. Requiere dos parámetros por nombre: `usuario` e `id`.
-
-{{< twitter_simple user="DesignReviewed" id="1085870671291310081" >}}
-
-Alternativamente, el shortcut `tweet` se puede usar para incrustar una tarjeta completa de Twitter.
-
 ## Vimeo
 
 El shortcode `vimeo_simple` insertará un video de Vimeo.

@@ -16,14 +16,6 @@ Hugo包含了多个[内置短代码](https://gohugo.io/content-management/shortc
 
 {{< youtube ZJthWmvUzzc >}}
 
-## Twitter
-
-这个例子使用了 `twitter_simple` 短代码来输出一条推文。它需要两个命名参数 `user` 和 `id`。
-
-{{< twitter_simple user="DesignReviewed" id="1085870671291310081" >}}
-
-或者，可以使用 `tweet` 短代码来嵌入一个完全标记的Twitter卡片。
-
 ## Vimeo
 
 `vimeo_simple` 短代码将嵌入Vimeo视频。

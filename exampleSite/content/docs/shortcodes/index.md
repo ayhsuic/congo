@@ -25,8 +25,8 @@ By default, the alert is presented with an exclaimation triangle icon. To change
 **Warning!** This action is destructive!
 {{</* /alert */>}}
 
-{{</* alert "twitter" */>}}
-Don't forget to [follow me](https://twitter.com/jpanther) on Twitter.
+{{</* alert "x-twitter" */>}}
+Don't forget to [follow me](https://x.com/jpanther) on X.
 {{</* /alert */>}}
 ```
 
@@ -34,8 +34,8 @@ Don't forget to [follow me](https://twitter.com/jpanther) on Twitter.
 **Warning!** This action is destructive!
 {{< /alert >}}
 &nbsp;
-{{< alert "twitter" >}}
-Don't forget to [follow me](https://twitter.com/jpanther) on Twitter.
+{{< alert "x-twitter" >}}
+Don't forget to [follow me](https://x.com/jpanther) on X.
 {{< /alert >}}
 
 ## Badge

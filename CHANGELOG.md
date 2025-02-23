@@ -10,6 +10,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - New `gist` shortcode as the built-in Hugo version has been deprecated
 - New icon for `kofi` ([#976](https://github.com/jpanther/congo/pull/976))
+- Privacy and Services params in bundled `config.toml` to provide sensible defaults for built-in Hugo shortcodes
 
 ### Changed
 
@@ -21,6 +22,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Fixed
 
 - Minor documentation errors and omissions ([#985](https://github.com/jpanther/congo/pull/985), [#1005](https://github.com/jpanther/congo/pull/1005), [#1007](https://github.com/jpanther/congo/pull/1007))
+- References to deprecated `twitter` shortcodes and replaced them with `x`
 
 ## [2.10.0] - 2024-12-06
 
