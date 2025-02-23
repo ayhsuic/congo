@@ -24,12 +24,6 @@ Este ejemplo usa el shortcode `twitter_simple` para generar un Tweet. Requiere d
 
 Alternativamente, el shortcut `tweet` se puede usar para incrustar una tarjeta completa de Twitter.
 
-## Gist
-
-El shortcode `gist` se puede usar para incrustar un GitHub Gist. Requiere dos parámetros por posición: el nombre de usuario y el ID del Gist.
-
-{{< gist jpanther a873e1219ffeaa80a926bbe8255f348e >}}
-
 ## Vimeo
 
 El shortcode `vimeo_simple` insertará un video de Vimeo.

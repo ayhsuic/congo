@@ -24,12 +24,6 @@ Hugo包含了多个[内置短代码](https://gohugo.io/content-management/shortc
 
 或者，可以使用 `tweet` 短代码来嵌入一个完全标记的Twitter卡片。
 
-## Gist
-
-`gist` 短代码可以用于嵌入GitHub Gist。它需要两个未命名参数：Gist的用户名和ID。
-
-{{< gist jpanther a873e1219ffeaa80a926bbe8255f348e >}}
-
 ## Vimeo
 
 `vimeo_simple` 短代码将嵌入Vimeo视频。

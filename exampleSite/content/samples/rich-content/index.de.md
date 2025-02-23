@@ -24,12 +24,6 @@ Dieses Beispiel verwendet den Shortcode `twitter_simple`, um einen Tweet anzuzei
 
 Alternativ kann der Shortcode `tweet` verwendet werden, um eine vollständig formatierte Twitter-Kachel einzubetten.
 
-## Gist
-
-Der Shortcode `gist` kann verwendet werden, um einen Gist von GitHub einzubetten. Er erfordert zwei unbenannte Parameter: den Benutzernamen und die ID des Gist.
-
-{{< gist jpanther a873e1219ffeaa80a926bbe8255f348e >}}
-
 ## Vimeo
 
 Der Shortcode `vimeo_simple` bettet ein Video von Vimeo ein.
