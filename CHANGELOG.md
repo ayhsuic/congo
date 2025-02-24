@@ -6,6 +6,28 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+### Added
+
+- New `gist` shortcode as the built-in Hugo version has been deprecated
+- New icon for `kofi` ([#976](https://github.com/jpanther/congo/pull/976))
+- Privacy and Services params in bundled `config.toml` to provide sensible defaults for built-in Hugo shortcodes
+
+### Changed
+
+- Reduced file sizes of default favicons ([#983](https://github.com/jpanther/congo/pull/983))
+- Upgrade to KaTeX v0.16.21 ([#977](https://github.com/jpanther/congo/pull/977), [#1016](https://github.com/jpanther/congo/pull/1016))
+- Upgrade to Tailwind v3.4.17 ([#979](https://github.com/jpanther/congo/pull/979))
+- Upgrade to Typography v0.5.16 ([#991](https://github.com/jpanther/congo/pull/991))
+- Upgrade to ChartJS v4.4.8 ([#1019](https://github.com/jpanther/congo/pull/1019))
+- Upgrade to FuseJS v7.1.0 ([#1020](https://github.com/jpanther/congo/pull/1020))
+
+### Fixed
+
+- Incorrect links generated for translated content when site is in multi-host mode ([#990](https://github.com/jpanther/congo/pull/990))
+- Vendor script includes do not use the `fingerprintAlgorithm` site parameter ([#1015](https://github.com/jpanther/congo/issues/1015))
+- Minor documentation errors and omissions ([#985](https://github.com/jpanther/congo/pull/985), [#1005](https://github.com/jpanther/congo/pull/1005), [#1007](https://github.com/jpanther/congo/pull/1007), [#1012](https://github.com/jpanther/congo/pull/1012))
+- References to deprecated `twitter` shortcodes and replaced them with `x`
+
 ## [2.10.0] - 2024-12-06
 
 ### Changed
@@ -153,7 +175,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Fixed
 
-- Links with non-whitespace characters preceeding them are prefixed with a space ([#695](https://github.com/jpanther/congo/issues/695))
+- Links with non-whitespace characters preceding them are prefixed with a space ([#695](https://github.com/jpanther/congo/issues/695))
 
 ## [2.7.3] - 2023-10-31
 
@@ -356,7 +378,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Appearance switcher missing `aria-label` ([#438](https://github.com/jpanther/congo/pull/438))
 - Article links missing `alt` text and `aria-label` ([#439](https://github.com/jpanther/congo/pull/439))
 - Line height in article tag list would cause overlap when wrapping to a new line ([#444](https://github.com/jpanther/congo/pull/444))
-- Figure shortcode would not apply `class` or `href` attribtues in some cases
+- Figure shortcode would not apply `class` or `href` attributes in some cases
 - Charts displaying with incorrect theme colours
 
 ## [2.4.2] - 2022-11-22
