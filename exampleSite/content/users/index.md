@@ -84,5 +84,6 @@ The list below is just a handful of the websites that are built using the Congo 
 | [joshquinlan.co.uk](https://joshquinlan.co.uk)                         | Personal & Professional Site      |
 | [Rwhither's Blog](https://blog.sky123.top)                             | Personal site and blog            |
 | [peregrinator.site](https://peregrinator.site)                         | Personal Site and Blog            |
+| [wendyliga.com](https://wendyliga.com)                                 | Personal Site and Blog            |
 
 **Congo user?** To add your site to this list, [submit a pull request](https://github.com/jpanther/congo/blob/dev/exampleSite/content/users/index.md).
