@@ -77,7 +77,6 @@ The list below is just a handful of the websites that are built using the Congo 
 | [chenyu.blog](https://chenyu.blog)                                     | Personal site and blog            |
 | [g-snipes.github.io](https://g-snipes.github.io./)                     | Personal site and Music/Tech blog |
 | [aimtune.dev](https://aimtune.dev/)                                    | Personal blog (Turkish/English)   |
-| [blog.ny4.dev](https://blog.ny4.dev)                                   | Personal site and blog (en/zh)    |
 | [socrabytes.github.io](https://socrabytes.github.io)                   | Personal site and Tech Blog       |
 | [blog.pitermarx.com](https://blog.pitermarx.com)                       | Personal Site                     |
 | [montenegrodanielfelipe.com](https://montenegrodanielfelipe.com)       | Personal Site and Blog            |
