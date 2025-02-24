@@ -17,14 +17,14 @@ The theme ships with a default configuration that gets you up and running with a
 The default theme configuration is documented in each file so you can freely adjust the settings to meet your needs.
 
 {{< alert >}}
-As outlined in the [installation instructions]({{< ref "/docs/installation#set-up-theme-configuration-files" >}}), you should adjust your theme configuration by modifying the files in the `config/_default/` folder of your Hugo project and delete the `config.toml` file in your project root.
+As outlined in the [installation instructions]({{< ref "/docs/installation#set-up-theme-configuration-files" >}}), you should adjust your theme configuration by modifying the files in the `config/_default/` folder of your Hugo project and delete the `hugo.toml` file in your project root.
 {{< /alert >}}
 
 ## Site configuration
 
 Standard Hugo configuration variables are respected throughout the theme, however there are some specific things that should be configured for the best experience.
 
-The site configuration is managed through the `config/_default/config.toml` file. The table below outlines all the settings that the Congo takes advantage of.
+The site configuration is managed through the `config/_default/hugo.toml` file. The table below outlines all the settings that the Congo takes advantage of.
 
 Note that the variable names provided in this table use dot notation to simplify the TOML data structure (ie. `outputs.home` refers to `[outputs] home`).
 

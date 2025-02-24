@@ -10,10 +10,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - New `gist` shortcode as the built-in Hugo version has been deprecated
 - New icon for `kofi` ([#976](https://github.com/jpanther/congo/pull/976))
-- Privacy and Services params in bundled `config.toml` to provide sensible defaults for built-in Hugo shortcodes
+- Privacy and Services params in bundled `hugo.toml` to provide sensible defaults for built-in Hugo shortcodes
 
 ### Changed
 
+- Renamed `config.toml` to `hugo.toml` to align with the default Hugo naming convention
 - Reduced file sizes of default favicons ([#983](https://github.com/jpanther/congo/pull/983))
 - Upgrade to KaTeX v0.16.21 ([#977](https://github.com/jpanther/congo/pull/977), [#1016](https://github.com/jpanther/congo/pull/1016))
 - Upgrade to Tailwind v3.4.17 ([#979](https://github.com/jpanther/congo/pull/979))
