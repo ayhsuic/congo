@@ -70,7 +70,7 @@ The list below is just a handful of the websites that are built using the Congo 
 | [kylecapehart.com](https://kylecapehart.com/)                          | Personal Site and Blog            |
 | [hosni.info](https://hosni.info/)                                      | Personal site and Tech Blog       |
 | [mattstrayer.com](https://www.mattstrayer.com/)                        | Personal Site and Blog            |
-| [noamlerner.com](https://www.noamlerner.com/)                          | Personal blog (English/Hebrew)    |
+| [noamlerner.com](https://noamlerner.com/)                              | Personal blog (English/Hebrew)    |
 | [jneidel.com](https://jneidel.com)                                     | Personal site and blog            |
 | [clementfouque.com](https://clementfouque.com)                         | Personal Site and Tech Blog       |
 | [victoryuan.com](https://victoryuan.com)                               | Personal Site and blog            |
@@ -80,6 +80,7 @@ The list below is just a handful of the websites that are built using the Congo 
 | [blog.ny4.dev](https://blog.ny4.dev)                                   | Personal site and blog (en/zh)    |
 | [socrabytes.github.io](https://socrabytes.github.io)                   | Personal site and Tech Blog       |
 | [montenegrodanielfelipe.com](https://montenegrodanielfelipe.com)       | Personal Site and Blog            |
+| [euangelos.linardos.gr](https://euangelos.linardos.gr)                 | Personal Site and Blog            |
 | [joshquinlan.co.uk](https://joshquinlan.co.uk)                         | Personal & Professional Site      |
 
 **Congo user?** To add your site to this list, [submit a pull request](https://github.com/jpanther/congo/blob/dev/exampleSite/content/users/index.md).
