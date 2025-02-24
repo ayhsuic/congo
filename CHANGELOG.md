@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Added
 
 - New `gist` shortcode as the built-in Hugo version has been deprecated
+- Support for article sharing to Bluesky ([#1022](https://github.com/jpanther/congo/pull/1022))
 - New icon for `kofi` ([#976](https://github.com/jpanther/congo/pull/976))
 - Privacy and Services params in bundled `hugo.toml` to provide sensible defaults for built-in Hugo shortcodes
 
