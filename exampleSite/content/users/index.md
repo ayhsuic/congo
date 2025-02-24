@@ -79,6 +79,7 @@ The list below is just a handful of the websites that are built using the Congo 
 | [aimtune.dev](https://aimtune.dev/)                                    | Personal blog (Turkish/English)   |
 | [blog.ny4.dev](https://blog.ny4.dev)                                   | Personal site and blog (en/zh)    |
 | [socrabytes.github.io](https://socrabytes.github.io)                   | Personal site and Tech Blog       |
+| [blog.pitermarx.com](https://blog.pitermarx.com)                       | Personal Site                     |
 | [montenegrodanielfelipe.com](https://montenegrodanielfelipe.com)       | Personal Site and Blog            |
 | [euangelos.linardos.gr](https://euangelos.linardos.gr)                 | Personal Site and Blog            |
 | [joshquinlan.co.uk](https://joshquinlan.co.uk)                         | Personal & Professional Site      |
