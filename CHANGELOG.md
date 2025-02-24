@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+### Fixed
+
+- Shortcodes placed after code blocks with line numbers are rendered with incorrect spacing ([#987](https://github.com/jpanther/congo/issues/987))
+
 ## [2.11.0] - 2025-02-24
 
 ### Added

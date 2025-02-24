@@ -1307,6 +1307,11 @@ code {
   padding: 0px;
 }
 
+.prose div.chroma {
+  margin-bottom: 1.5rem;
+  margin-top: 1.5rem;
+}
+
 /* LineTable */
 
 .chroma .lntable {

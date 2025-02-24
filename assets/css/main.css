@@ -126,6 +126,9 @@ code {
 .chroma pre {
   @apply m-0 p-0;
 }
+.prose div.chroma {
+  @apply mb-6 mt-6;
+}
 /* LineTable */
 .chroma .lntable {
   @apply m-0 block w-auto overflow-auto text-base;
