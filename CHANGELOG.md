@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [2.11.0] - 2025-02-24
+
 ### Added
 
 - New `gist` shortcode as the built-in Hugo version has been deprecated
@@ -948,7 +950,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Advanced customisation using simple Tailwind colour definitions and styles
 - Fully documented
 
-[Unreleased]: https://github.com/jpanther/congo/compare/v2.10.0...HEAD
+[Unreleased]: https://github.com/jpanther/congo/compare/v2.11.0...HEAD
+[2.11.0]: https://github.com/jpanther/congo/compare/v2.10.0...v2.11.0
 [2.10.0]: https://github.com/jpanther/congo/compare/v2.9.0...v2.10.0
 [2.9.0]: https://github.com/jpanther/congo/compare/v2.8.2...v2.9.0
 [2.8.2]: https://github.com/jpanther/congo/compare/v2.8.1...v2.8.2
