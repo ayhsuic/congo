@@ -41,7 +41,7 @@ The list below is just a handful of the websites that are built using the Congo 
 | [medical-humanities](https://medical-humanities.org)                   | Academic site                     |
 | [boyersnet.com](https://boyersnet.com)                                 | Personal site and Blog            |
 | [major.io](https://major.io)                                           | Personal site and Blog            |
-| [顾宇的博客](https://www.guyu.me/)                                     | Personal Blog (in Chinese)        |
+| [顾宇的博客](https://www.guyu.me/)                                       | Personal Blog (in Chinese)        |
 | [cgutierr-zgz.github.io](https://cgutierr-zgz.github.io/)              | Personal site and Tech blog       |
 | [adam.sr](https://adam.sr)                                             | Personal site and Blog            |
 | [kpavlov.me](https://kpavlov.me)                                       | Personal site and Blog            |
@@ -86,5 +86,6 @@ The list below is just a handful of the websites that are built using the Congo 
 | [wendyliga.com](https://wendyliga.com)                                 | Personal Site and Blog            |
 | [bitingbytes.de](https://bitingbytes.de)                               | Personal Site and Blog            |
 | [janela.digital](https://janela.digital/)                              | Personal Blog (in Portuguese)     |
+| [leavex.eu](https://leavex.eu)                                         | Leave X Campaign Site             |
 
 **Congo user?** To add your site to this list, [submit a pull request](https://github.com/jpanther/congo/blob/dev/exampleSite/content/users/index.md).
