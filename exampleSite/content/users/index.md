@@ -86,5 +86,6 @@ The list below is just a handful of the websites that are built using the Congo 
 | [peregrinator.site](https://peregrinator.site)                         | Personal Site and Blog            |
 | [wendyliga.com](https://wendyliga.com)                                 | Personal Site and Blog            |
 | [bitingbytes.de](https://bitingbytes.de)                               | Personal Site and Blog            |
+| [janela.digital](https://janela.digital/)                              | Personal Blog (in Portuguese)     |
 
 **Congo user?** To add your site to this list, [submit a pull request](https://github.com/jpanther/congo/blob/dev/exampleSite/content/users/index.md).
