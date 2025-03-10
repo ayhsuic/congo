@@ -83,9 +83,9 @@ The list below is just a handful of the websites that are built using the Congo 
 | [euangelos.linardos.gr](https://euangelos.linardos.gr)                 | Personal Site and Blog            |
 | [joshquinlan.co.uk](https://joshquinlan.co.uk)                         | Personal & Professional Site      |
 | [Rwhither's Blog](https://blog.sky123.top)                             | Personal site and blog            |
-| [peregrinator.site](https://peregrinator.site)                         | Personal Site and Blog            |
 | [wendyliga.com](https://wendyliga.com)                                 | Personal Site and Blog            |
 | [bitingbytes.de](https://bitingbytes.de)                               | Personal Site and Blog            |
+| [janela.digital](https://janela.digital/)                              | Personal Blog (in Portuguese)     |
 | [leavex.eu](https://leavex.eu)                                         | Leave X Campaign Site             |
 
 **Congo user?** To add your site to this list, [submit a pull request](https://github.com/jpanther/congo/blob/dev/exampleSite/content/users/index.md).
