@@ -1,7 +1,7 @@
 ---
 title: "Iconos"
 date: 2020-08-14
-lastmod: 2023-01-23
+lastmod: 2025-05-04
 draft: false
 description: Soporte de iconos en Congo."
 slug: "icons"
