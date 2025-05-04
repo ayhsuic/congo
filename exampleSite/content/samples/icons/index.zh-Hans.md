@@ -40,6 +40,7 @@ Congo内置了对多个[FontAwesome 6](https://fontawesome.com/icons)图标的�
 | github               | {{< icon github >}}               |
 | gitlab               | {{< icon gitlab >}}               |
 | globe                | {{< icon globe >}}                |
+| goodreads            | {{< icon goodreads >}}            |
 | google               | {{< icon google >}}               |
 | hashnode             | {{< icon hashnode >}}             |
 | instagram            | {{< icon instagram >}}            |
@@ -81,6 +82,6 @@ Congo内置了对多个[FontAwesome 6](https://fontawesome.com/icons)图标的�
 | twitter              | {{< icon twitter >}}              |
 | whatsapp             | {{< icon whatsapp >}}             |
 | x-twitter            | {{< icon x-twitter >}}            |
-| xmark                | {{< icon xmark >}}                |
 | xing                 | {{< icon xing >}}                 |
+| xmark                | {{< icon xmark >}}                |
 | youtube              | {{< icon youtube >}}              |

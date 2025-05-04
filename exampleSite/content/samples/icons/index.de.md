@@ -40,6 +40,7 @@ Die vollständige Liste der integrierten Icons und ihre entsprechenden Namen fin
 | github               | {{< icon github >}}               |
 | gitlab               | {{< icon gitlab >}}               |
 | globe                | {{< icon globe >}}                |
+| goodreads            | {{< icon goodreads >}}            |
 | google               | {{< icon google >}}               |
 | google-scholar       | {{< icon google-scholar >}}       |
 | hashnode             | {{< icon hashnode >}}             |
@@ -86,6 +87,6 @@ Die vollständige Liste der integrierten Icons und ihre entsprechenden Namen fin
 | weibo                | {{< icon weibo >}}                |
 | whatsapp             | {{< icon whatsapp >}}             |
 | x-twitter            | {{< icon x-twitter >}}            |
-| xmark                | {{< icon xmark >}}                |
 | xing                 | {{< icon xing >}}                 |
+| xmark                | {{< icon xmark >}}                |
 | youtube              | {{< icon youtube >}}              |

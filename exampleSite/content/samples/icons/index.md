@@ -40,6 +40,7 @@ The full list of built-in icons and their corresponding names can referenced bel
 | github               | {{< icon github >}}               |
 | gitlab               | {{< icon gitlab >}}               |
 | globe                | {{< icon globe >}}                |
+| goodreads            | {{< icon goodreads >}}            |
 | google               | {{< icon google >}}               |
 | google-scholar       | {{< icon google-scholar >}}       |
 | hashnode             | {{< icon hashnode >}}             |
@@ -86,6 +87,6 @@ The full list of built-in icons and their corresponding names can referenced bel
 | weibo                | {{< icon weibo >}}                |
 | whatsapp             | {{< icon whatsapp >}}             |
 | x-twitter            | {{< icon x-twitter >}}            |
-| xmark                | {{< icon xmark >}}                |
 | xing                 | {{< icon xing >}}                 |
+| xmark                | {{< icon xmark >}}                |
 | youtube              | {{< icon youtube >}}              |
