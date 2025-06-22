@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [2.12.1] - 2025-06-23
+
 ### Fixed
 
 - `figure` shortcode would load recursively when using the `default` paramater ([#1074](https://github.com/jpanther/congo/issues/1074))
@@ -984,7 +986,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Advanced customisation using simple Tailwind colour definitions and styles
 - Fully documented
 
-[Unreleased]: https://github.com/jpanther/congo/compare/v2.12.0...HEAD
+[Unreleased]: https://github.com/jpanther/congo/compare/v2.12.1...HEAD
+[2.12.1]: https://github.com/jpanther/congo/compare/v2.12.0...v2.12.1
 [2.12.0]: https://github.com/jpanther/congo/compare/v2.11.0...v2.12.0
 [2.11.0]: https://github.com/jpanther/congo/compare/v2.10.0...v2.11.0
 [2.10.0]: https://github.com/jpanther/congo/compare/v2.9.0...v2.10.0
