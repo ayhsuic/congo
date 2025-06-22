@@ -6,9 +6,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+### Added
+
+- New `canonicalUrl` parameter support in article front matter ([#1046](https://github.com/jpanther/congo/pull/1046))
+- New icon for `goodreads` ([#1057](https://github.com/jpanther/congo/pull/1057))
+
+### Changed
+
+- ⚠️ Required Hugo version is now 0.146.0 or later
+- Upgrade to Mermaid v11.7.0 ([#1035](https://github.com/jpanther/congo/pull/1035), [#1040](https://github.com/jpanther/congo/pull/1040))
+- Upgrade to KaTeX v0.16.22 ([#1048](https://github.com/jpanther/congo/pull/1048))
+- Upgrade to ChartJS v4.5.0 ([#1052](https://github.com/jpanther/congo/pull/1052), [#1067](https://github.com/jpanther/congo/pull/1067))
+- Updated Czech translation ([#1055](https://github.com/jpanther/congo/pull/1055))
+
 ### Fixed
 
 - Shortcodes placed after code blocks with line numbers are rendered with incorrect spacing ([#987](https://github.com/jpanther/congo/issues/987))
+- Some localised date formats would be incorrectly formatted as Markdown ([#1028](https://github.com/jpanther/congo/pull/1028))
+- Anchor links in articles displayed incorrectly in dark mode ([#1041](https://github.com/jpanther/congo/pull/1041))
+- Error building site due to template system changes in Hugo v0.146.0 or later ([#1049](https://github.com/jpanther/congo/issues/1049))
+- Article sharing links for LINE contained invalid URLs ([#1065](https://github.com/jpanther/congo/pull/1065))
 
 ## [2.11.0] - 2025-02-24
 
