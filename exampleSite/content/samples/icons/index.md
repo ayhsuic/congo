@@ -1,7 +1,7 @@
 ---
 title: "Icons"
 date: 2020-08-14
-lastmod: 2023-01-23
+lastmod: 2025-05-04
 draft: false
 description: "Icon support in Congo."
 slug: "icons"
@@ -40,6 +40,7 @@ The full list of built-in icons and their corresponding names can referenced bel
 | github               | {{< icon github >}}               |
 | gitlab               | {{< icon gitlab >}}               |
 | globe                | {{< icon globe >}}                |
+| goodreads            | {{< icon goodreads >}}            |
 | google               | {{< icon google >}}               |
 | google-scholar       | {{< icon google-scholar >}}       |
 | hashnode             | {{< icon hashnode >}}             |
@@ -86,6 +87,6 @@ The full list of built-in icons and their corresponding names can referenced bel
 | weibo                | {{< icon weibo >}}                |
 | whatsapp             | {{< icon whatsapp >}}             |
 | x-twitter            | {{< icon x-twitter >}}            |
-| xmark                | {{< icon xmark >}}                |
 | xing                 | {{< icon xing >}}                 |
+| xmark                | {{< icon xmark >}}                |
 | youtube              | {{< icon youtube >}}              |
