@@ -8,11 +8,20 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Added
 
-- `canonicalUrl` parameter for page front matter
+- `canonicalUrl` parameter for article front matter ([#1046](https://github.com/jpanther/congo/pull/1046))
+
+### Changed
+
+- ⚠️ Required Hugo version is now 0.146.0 or later
+- Upgrade to Mermaid v11.7.0 ([#1035](https://github.com/jpanther/congo/pull/1035), [#1040](https://github.com/jpanther/congo/pull/1040))
+- Upgrade to KaTeX v0.16.22 ([#1048](https://github.com/jpanther/congo/pull/1048))
+- Upgrade to ChartJS v4.5.0 ([#1052](https://github.com/jpanther/congo/pull/1052), [#1067](https://github.com/jpanther/congo/pull/1067))
 
 ### Fixed
 
 - Shortcodes placed after code blocks with line numbers are rendered with incorrect spacing ([#987](https://github.com/jpanther/congo/issues/987))
+- Some localised date formats would be incorrectly formatted as Markdown ([#1028](https://github.com/jpanther/congo/pull/1028))
+- Error building site due to template system changes in Hugo v0.146.0 or later ([#1049](https://github.com/jpanther/congo/issues/1049))
 
 ## [2.11.0] - 2025-02-24
 
