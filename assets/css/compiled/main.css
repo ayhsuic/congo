@@ -1612,6 +1612,7 @@ code {
 .chroma .si,
 .chroma .sx,
 .chroma .s1,
+.chroma .gd,
 .chroma .gi,
 .chroma .go,
 .chroma .gp {
@@ -1632,6 +1633,7 @@ code {
 .chroma .si:is(.dark *),
 .chroma .sx:is(.dark *),
 .chroma .s1:is(.dark *),
+.chroma .gd:is(.dark *),
 .chroma .gi:is(.dark *),
 .chroma .go:is(.dark *),
 .chroma .gp:is(.dark *) {
