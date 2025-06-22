@@ -22,7 +22,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Changed
 
 - ⚠️ Required Hugo version is now 0.146.0 or later
-- Layouts directory restructured to align with [new Hugo templating data structure](https://github.com/gohugoio/hugo/pull/13541#issue-2959000250)
+- Layouts directory restructured to align with [new Hugo templating data structure](https://gohugo.io/templates/new-templatesystem-overview/)
 - Absolute URLs are now preferred over relative URLs
 - Upgrade to Mermaid v11.7.0 ([#1035](https://github.com/jpanther/congo/pull/1035), [#1040](https://github.com/jpanther/congo/pull/1040))
 - Upgrade to KaTeX v0.16.22 ([#1048](https://github.com/jpanther/congo/pull/1048))
