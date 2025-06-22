@@ -16,6 +16,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - ⚠️ Required Hugo version is now 0.146.0 or later
 - Layouts directory restructured to align with [new Hugo templating data structure](https://github.com/gohugoio/hugo/pull/13541#issue-2959000250)
+- Absolute URLs are now preferred over relative URLs
 - Upgrade to Mermaid v11.7.0 ([#1035](https://github.com/jpanther/congo/pull/1035), [#1040](https://github.com/jpanther/congo/pull/1040))
 - Upgrade to KaTeX v0.16.22 ([#1048](https://github.com/jpanther/congo/pull/1048))
 - Upgrade to ChartJS v4.5.0 ([#1052](https://github.com/jpanther/congo/pull/1052), [#1067](https://github.com/jpanther/congo/pull/1067))

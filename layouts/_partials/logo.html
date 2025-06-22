@@ -5,7 +5,7 @@
     <a href="{{ "" | relLangURL }}" class="mr-2">
       <!-- prettier-ignore-attribute -->
       <img
-        src="{{ $logo.RelPermalink }}"
+        src="{{ $logo.Permalink }}"
         width="{{ div $logo.Width 2 }}"
         height="{{ div $logo.Height 2 }}"
         class="max-h-[10rem] max-w-[10rem] object-scale-down object-left
@@ -14,7 +14,7 @@
       />
       {{- if $logo_dark }}
         <img
-          src="{{ $logo_dark.RelPermalink }}"
+          src="{{ $logo_dark.Permalink }}"
           width="{{ div $logo_dark.Width 2 }}"
           height="{{ div $logo_dark.Height 2 }}"
           class="hidden max-h-[10rem] max-w-[10rem] object-scale-down object-left dark:flex"

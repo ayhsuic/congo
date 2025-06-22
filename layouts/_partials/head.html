@@ -17,7 +17,7 @@
   {{ $jsAppearance = $jsAppearance | resources.Minify | resources.Fingerprint $algorithm }}
   <script
     type="text/javascript"
-    src="{{ $jsAppearance.RelPermalink }}"
+    src="{{ $jsAppearance.Permalink }}"
     integrity="{{ $jsAppearance.Data.Integrity }}"
   ></script>
   {{ $cssScheme := resources.Get (printf "css/schemes/%s.css" (lower .Site.Params.colorScheme | default "congo")) }}
@@ -35,7 +35,7 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="{{ $bundleCSS.RelPermalink }}"
+    href="{{ $bundleCSS.Permalink }}"
     integrity="{{ $bundleCSS.Data.Integrity }}"
   />
   {{ if .Site.Params.enableSearch | default false }}
@@ -66,7 +66,7 @@
       defer
       type="text/javascript"
       id="script-bundle"
-      src="{{ $bundleJS.RelPermalink }}"
+      src="{{ $bundleJS.Permalink }}"
       integrity="{{ $bundleJS.Data.Integrity }}"
       data-copy="{{ i18n "code.copy" }}"
       data-copied="{{ i18n "code.copied" }}"
@@ -100,7 +100,7 @@
     <link rel="canonical" href="{{ .Permalink }}" />
   {{ end }}
   {{ range .AlternativeOutputFormats -}}
-    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .RelPermalink ($.Site.Title | emojify) | safeHTML }}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink ($.Site.Title | emojify) | safeHTML }}
   {{ end -}}
   {{/* Icons */}}
   {{ if templates.Exists "partials/favicons.html" }}
