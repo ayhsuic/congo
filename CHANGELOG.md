@@ -23,6 +23,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Fixed
 
+- Logo and dark logo display is reversed when switching appearance ([#939](https://github.com/jpanther/congo/issues/939))
 - Shortcodes placed after code blocks with line numbers are rendered with incorrect spacing ([#987](https://github.com/jpanther/congo/issues/987))
 - Some localised date formats would be incorrectly formatted as Markdown ([#1028](https://github.com/jpanther/congo/pull/1028))
 - Anchor links in articles displayed incorrectly in dark mode ([#1041](https://github.com/jpanther/congo/pull/1041))
