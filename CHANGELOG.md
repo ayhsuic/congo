@@ -9,7 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Added
 
 - New `canonicalUrl` parameter support in article front matter ([#1046](https://github.com/jpanther/congo/pull/1046))
-- New icon for `goodreads` ([#1057](https://github.com/jpanther/congo/pull/1057))
+- New icons for `goodreads`, `podcast` and `rss` ([#1057](https://github.com/jpanther/congo/pull/1057), [#1072](https://github.com/jpanther/congo/pull/1072))
 
 ### Changed
 

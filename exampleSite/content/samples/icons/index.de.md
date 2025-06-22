@@ -65,8 +65,10 @@ Die vollständige Liste der integrierten Icons und ihre entsprechenden Namen fin
 | pencil               | {{< icon pencil >}}               |
 | phone                | {{< icon phone >}}                |
 | pinterest            | {{< icon pinterest >}}            |
+| podcast              | {{< icon podcast >}}              |
 | reddit               | {{< icon reddit >}}               |
 | researchgate         | {{< icon researchgate >}}         |
+| rss                  | {{< icon rss >}}                  |
 | search               | {{< icon search >}}               |
 | skull-crossbones     | {{< icon skull-crossbones >}}     |
 | slack                | {{< icon slack >}}                |

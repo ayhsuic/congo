@@ -65,8 +65,10 @@ The full list of built-in icons and their corresponding names can referenced bel
 | pencil               | {{< icon pencil >}}               |
 | phone                | {{< icon phone >}}                |
 | pinterest            | {{< icon pinterest >}}            |
+| podcast              | {{< icon podcast >}}              |
 | reddit               | {{< icon reddit >}}               |
 | researchgate         | {{< icon researchgate >}}         |
+| rss                  | {{< icon rss >}}                  |
 | search               | {{< icon search >}}               |
 | skull-crossbones     | {{< icon skull-crossbones >}}     |
 | slack                | {{< icon slack >}}                |
