@@ -14,6 +14,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Changed
 
 - ⚠️ Required Hugo version is now 0.146.0 or later
+- Layouts directory restructured to align with [new Hugo templating data structure](https://github.com/gohugoio/hugo/pull/13541#issue-2959000250)
 - Upgrade to Mermaid v11.7.0 ([#1035](https://github.com/jpanther/congo/pull/1035), [#1040](https://github.com/jpanther/congo/pull/1040))
 - Upgrade to KaTeX v0.16.22 ([#1048](https://github.com/jpanther/congo/pull/1048))
 - Upgrade to ChartJS v4.5.0 ([#1052](https://github.com/jpanther/congo/pull/1052), [#1067](https://github.com/jpanther/congo/pull/1067))
@@ -26,6 +27,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Anchor links in articles displayed incorrectly in dark mode ([#1041](https://github.com/jpanther/congo/pull/1041))
 - Error building site due to template system changes in Hugo v0.146.0 or later ([#1049](https://github.com/jpanther/congo/issues/1049), [#1073](https://github.com/jpanther/congo/pull/1073))
 - Style is not rendered for Chroma GenericDeleted items ([#1059](https://github.com/jpanther/congo/issues/1059))
+- Tag listing pages not generating links to articles ([#1061](https://github.com/jpanther/congo/issues/1061))
 - Article sharing links for LINE contained invalid URLs ([#1065](https://github.com/jpanther/congo/pull/1065))
 
 ## [2.11.0] - 2025-02-24
