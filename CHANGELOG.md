@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Added
 
-- `canonicalUrl` parameter for article front matter ([#1046](https://github.com/jpanther/congo/pull/1046))
+- New `canonicalUrl` parameter support in article front matter ([#1046](https://github.com/jpanther/congo/pull/1046))
 
 ### Changed
 
