@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+### Fixed
+
+- Some partials not loading due to incorrect file paths ([#1075](https://github.com/jpanther/congo/pull/1075))
+
 ## [2.12.0] - 2025-06-22
 
 ### Added
