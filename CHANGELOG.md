@@ -6,6 +6,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+### Added
+
+- New icon for `strava` ([#1081](https://github.com/jpanther/congo/pull/1081))
+
+### Changed
+
+- Upgrade to Mermaid v11.8.1 ([#1084](https://github.com/jpanther/congo/pull/1084))
+- Updated Korean translation ([#1078](https://github.com/jpanther/congo/pull/1078))
+
 ## [2.12.1] - 2025-06-23
 
 ### Fixed
