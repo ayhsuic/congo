@@ -22,9 +22,10 @@
 5. 点击创建\>Pages\>导入现有的Git储蓄库
 6. 绑定Github后选择你fork的仓库\>开始设置\>在框架预设选择Hugo\>在环境变量（高级）
 7. 变量名称填入HUGO*VERSION*
-8. 值填入[]()**https://github.com/gohugoio/hugo/releases**显示的最新版本即可，如0.149.0
-9. 保存并部署
-10. 🎉🎉🎉
+8. 值填入[]()**https://github.com/gohugoio/hugo/releases**
+显示的最新版本即可，如0.149.0
+10. 保存并部署
+11. 🎉🎉🎉
 
 ## 后续
 
